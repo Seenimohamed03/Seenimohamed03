@@ -1,10 +1,15 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hello 👋, I'm Seeni Mohamed I 
-<h3 align="center"><font face="Arial">This is <a href="https://www.linkedin.com/in/seeni-mohamed-l-296b31252" target="_blank" rel="noreferrer">Seeni</a>  AI&DS graduate, possesinate skills to handle AI tools and also full stack developer and now working to develop an AI chatbot.</font></h3>
+<h1 align="center"><font face="Arial">Hello 👋, I'm Seeni Mohamed.I </font></h1>
 
 <!-- Schedule a 1-on-1 Call Section -->
+
+<h3 align="center">🚀 AI Enthusiast | Full Stack Developer | Building the Future of Smart Web Solutions</h3>
+
+Skilled in leveraging AI tools and full stack technologies to craft efficient, scalable, and user-centric web applications. Passionate about transforming innovative ideas into intelligent systems, I specialize in developing end-to-end solutions from front-end design to back-end architecture. Currently focused on building a AI-chatbot, combining deep learning with modern web development.
+
 <h3 align="left"><font size="+2" face="Verdana">DETAILS</font></h3>
 
+  - AI&DS Graduate<br>
   - Fresher<br>
   - Seeking for Growth and Oppurtunity<br>
   - Feel free to reach out...
